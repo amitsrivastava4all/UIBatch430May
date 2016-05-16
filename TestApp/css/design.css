@@ -1,0 +1,39 @@
+div{
+   /* border-style: solid;
+    border-width: 2px;*/
+}
+/* To Access Id use # */
+section{
+    width: 75%;
+    float: left;
+}
+aside{
+    width: 22%;
+    float: left;
+}
+header{
+    background-color: #157ED2;
+}
+nav>ul>li{
+    display: inline;
+    padding-right: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+nav>ul>li>a{
+    color: #90C2EA;
+    text-decoration: none;
+}
+nav>ul{
+    margin-left: 30%;
+}
+#left{
+    padding: 2px;
+}
+
+#logo{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-shadow: 1px 1px 6px yellow;
+}
